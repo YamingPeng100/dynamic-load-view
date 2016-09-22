@@ -10,6 +10,8 @@
 
 <img src="http://7fvj70.com1.z0.glb.clouddn.com/dynamic-load-view.gif">
 
+[PicUrl](http://7fvj70.com1.z0.glb.clouddn.com/dynamic-load-view.gif)
+
 ## Future
 
 * The plugin is independent to host App totaly.
