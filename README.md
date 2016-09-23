@@ -4,6 +4,8 @@
 
 ## Overview
 
+[中文介绍](https://github.com/kot32go/dynamic-load-view/blob/master/README_zh.md)
+
 **Dynamic-load-view can load View in external apk. you can use it to hotfix View or update module in your App.** 
 
 ## ScreenShot
