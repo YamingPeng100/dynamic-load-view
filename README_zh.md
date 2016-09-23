@@ -1,6 +1,6 @@
 # Dynamic-load-view
 
-<img src="http://7fvj70.com1.z0.glb.clouddn.com/dlv_logo.png" alt="Drawing" style="width: 100px;"/>
+<img src="http://7fvj70.com1.z0.glb.clouddn.com/dlv_logo.png" width = "80" height = "80"/>
 
 ## 概述
 
